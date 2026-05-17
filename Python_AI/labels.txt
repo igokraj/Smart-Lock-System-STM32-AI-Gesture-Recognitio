@@ -1,0 +1,2 @@
+0 hand gesture
+1 sleep mode
