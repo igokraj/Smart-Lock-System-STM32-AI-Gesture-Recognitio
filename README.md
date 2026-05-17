@@ -18,7 +18,7 @@ A Two-Factor Authentication (2FA) access control system combining hardware secur
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/igokraj/Smart-Lock-System-STM32-AI-Gesture-Recognitio.git
+git clone https://github.com/igokraj/Smart-Lock-System-STM32-Gesture-Recognition.git
 cd Smart-Lock-System-STM32-AI-Gesture-Recognition
 ```
 
